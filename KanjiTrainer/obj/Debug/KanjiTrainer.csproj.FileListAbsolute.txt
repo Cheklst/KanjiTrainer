@@ -1,0 +1,15 @@
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\bin\Debug\KanjiTrainer.exe.config
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\bin\Debug\KanjiTrainer.exe
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\bin\Debug\KanjiTrainer.pdb
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.csproj.AssemblyReference.cache
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\MainWindow.g.cs
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\App.g.cs
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer_MarkupCompile.cache
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer_MarkupCompile.lref
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\MainWindow.baml
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.g.resources
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.Properties.Resources.resources
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.csproj.GenerateResource.cache
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.csproj.CoreCompileInputs.cache
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.exe
+C:\Users\79099\source\repos\KanjiTrainer\KanjiTrainer\obj\Debug\KanjiTrainer.pdb
